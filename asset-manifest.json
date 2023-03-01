@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ivykanyiri/Weather-app/static/css/main.5be11a1d.css",
+    "main.js": "/ivykanyiri/Weather-app/static/js/main.17c674ff.js",
+    "static/media/sunrise.jpg": "/ivykanyiri/Weather-app/static/media/sunrise.6b0cf90f762354735bef.jpg",
+    "index.html": "/ivykanyiri/Weather-app/index.html",
+    "main.5be11a1d.css.map": "/ivykanyiri/Weather-app/static/css/main.5be11a1d.css.map",
+    "main.17c674ff.js.map": "/ivykanyiri/Weather-app/static/js/main.17c674ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5be11a1d.css",
+    "static/js/main.17c674ff.js"
+  ]
+}
