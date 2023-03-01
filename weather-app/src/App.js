@@ -25,7 +25,7 @@ function App() {
         value={location}
         onChange={(e) => setLocation(e.target.value)}
         onKeyUp = {searchLocation}
-        placeholder='Search Location...'
+        placeholder='Enter Location..'
         />
       </div>
       <div className="container">
